@@ -17,3 +17,10 @@ Hello Everyone!!!
 
 
 whatever text
+
+
+1. modify fileA.txt
+2. add to the index (staged area) by running `git add .`
+3. run git status
+4. remove from the staging are by running `git reset`
+5. run `git status`
