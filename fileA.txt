@@ -37,3 +37,12 @@ whatever text
 3. copy the https link to repo
 4. go to your terminal and add the remote by running `git add origin <your_url_to_your_repo>`
 5. push to GitHub your changes by running `git push origin master -u`
+
+
+1. create a new branch called newFeature by running ` git checkout -b newFeature'
+2. add some text to the fileA.txt
+3. commit the changes by running git commit -am 'new feature'`
+4. go to the master branch by running git checkout master
+5. create a bugFix branch called bugFix by running `git checkout -b 'bugFix'
+6. create a file called fileB.txt and run `git add .` and then `git commit -m 'bug fix'
+7. push your bugFix branch by running `git push origin bugFix -u`
