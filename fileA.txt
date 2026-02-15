@@ -37,3 +37,7 @@ whatever text
 3. copy the https link to repo
 4. go to your terminal and add the remote by running `git add origin <your_url_to_your_repo>`
 5. push to GitHub your changes by running `git push origin master -u`
+
+
+my new feature code
+yada yaada
