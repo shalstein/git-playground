@@ -46,3 +46,8 @@ whatever text
 5. create a bugFix branch called bugFix by running `git checkout -b 'bugFix'
 6. create a file called fileB.txt and run `git add .` and then `git commit -m 'bug fix'
 7. push your bugFix branch by running `git push origin bugFix -u`
+my new feature code
+yada yaada
+
+
+add more feature
