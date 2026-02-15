@@ -24,3 +24,16 @@ whatever text
 3. run git status
 4. remove from the staging are by running `git reset`
 5. run `git status`
+
+
+
+1. modify fileA.txt
+2. run `git log` to get the latest commit hash/id
+3. run the dangerous command `git reset --hard <your commit hash/id>
+
+
+1. create/sign in to GitHub.com
+2. Click the plus button to create a new repo and give it a name
+3. copy the https link to repo
+4. go to your terminal and add the remote by running `git add origin <your_url_to_your_repo>`
+5. push to GitHub your changes by running `git push origin master -u`
