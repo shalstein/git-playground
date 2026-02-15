@@ -1,1 +1,15 @@
 Hello Everyone!!!
+
+1. create a folder for practicing git
+2. open visual studio in that folder and open the terminal ( find it in the view menu) 
+3. runt git config --global user.name "Your Name"
+4. git config --global user.email "your_email@whatever.com"
+5 run git init in the terminal
+6.add a file called fileA.txt and add text
+7. add the file to the index by git add fileA.txt
+8. Save the file by running `git commit -m 'first commit'
+9. make a change to the file and save it
+10. run `git status` to see that git sees changes
+11. run `git add fileA` to add the changes to the index
+12. run ` git commit -m 'made changes'
+13. run ` git status` to check that there are no more changes to save.
